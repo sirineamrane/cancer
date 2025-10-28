@@ -1,4 +1,0 @@
-model:
-  name: resnet
-  depth: 50
-  pretrained: true
