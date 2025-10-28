@@ -1,5 +1,4 @@
-model:
-  name: cnn
-  layers: 4
-  filters: [32, 64, 128, 256]
+name: cnn
+layers: 4
+filters: [32, 64, 128, 256]
 

@@ -3,8 +3,8 @@ defaults:
   - optimizer: adam
 
 dataset:
-  name: cancer_dataset
-  path: ./data
+  name: data
+  path: /mnt/c/Users/Sirine/Documents/data
 
 training:
   epochs: 10
