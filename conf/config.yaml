@@ -1,0 +1,11 @@
+defaults:
+  - model: cnn
+  - optimizer: adam
+
+dataset:
+  name: cancer_dataset
+  path: ./data
+
+training:
+  epochs: 10
+  batch_size: 32
